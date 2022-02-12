@@ -72,7 +72,6 @@ We will build a docker image of Flask Application in the build server and push i
      
      ![job](https://user-images.githubusercontent.com/94472101/150886408-b0818a79-5979-4283-a031-3b4ea411819d.png)
      
-     ![cicd](https://user-images.githubusercontent.com/94472101/150886279-9c48c40d-742d-48d0-af36-f5a0cb9744e1.png)
      
    6. Select "GitHub hook trigger for GITScm polling" under the section "Build Triggers" in order to use webhook and GitHub
    
