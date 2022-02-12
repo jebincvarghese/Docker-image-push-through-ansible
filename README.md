@@ -43,7 +43,7 @@ We will build a docker image of Flask Application in the build server and push i
  #### Clone the repo
 
      ```
-     git clone https://github.com/Swathikarun/Project-with-Continous-Build-And-Continous-Deployment.git
+     git clone git@github.com:jebincvarghese/Project-with-Continous-Build-And-Continous-Deployment.git
      ```
      
  #### Configuring jenkins
@@ -95,6 +95,6 @@ We will build a docker image of Flask Application in the build server and push i
 
 ## Result
 
-     A Flask Application container is deployed now. And whenever a commit is done in github, then the change will be automatically deployed by jenkin server when      the webhook triggers.
+     A Flask Application container is deployed now. And whenever a commit is done in github, then the change will be automatically deployed by jenkin server when  the webhook triggers.
  
 
